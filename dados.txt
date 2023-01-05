@@ -1,0 +1,12 @@
+Dados do aluno
+
+-Primeiro Nome: Raphael Pereira Carlos
+-Profissão: Analista de Qualidade
+-Cidade: Blumenau
+-O que faz nas horas vaga: Estudo
+-Feedback sobre o curso Qualidade de Software: Estou gostando do curso, só penso que em algumas ocasiões poderiam ter mais exemplos do dia a dia de um QA
+-Feedback sobre a plataforma de estudo da EBAC: É uma das melhores plataformas que já utilizei
+
+Obrigado!!!
+
+
